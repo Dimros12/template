@@ -2,8 +2,8 @@
   "name": "dl-academy-markup-template",
   "version": "1.0.0",
   "private": true,
-  "description": "Markup template",
-  "author": "DirectLine Development",
+  "description": "My BLOG",
+  "author": "Dmitriy Dmitriev",
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp build",

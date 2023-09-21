@@ -20,3 +20,10 @@
     display: table;
   }
 }
+
+@mixin Gilroy {
+  font-family: $Gilroy;
+  font-style: normal;
+  line-height: normal;
+}
+
